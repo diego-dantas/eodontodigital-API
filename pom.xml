@@ -51,12 +51,12 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!--Dependency of security
+		<!--Dependency of security -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
-		-->
+		
 		<!--Dependency of jpa and db
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
