@@ -14,7 +14,7 @@ public class EodontodigitalApiApplication {
 
 	@GetMapping("/")
     public String hello() {
-        return "Hello Spring Boot!";
+        return "E-odonto-digital API";
     }
 	
 }
